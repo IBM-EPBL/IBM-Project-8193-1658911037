@@ -2,14 +2,14 @@
 #include <PubSubClient.h>
 WiFiClient wifiClient;
 String data3;
-#define ORG "4yi0vc"
-#define DEVICE_TYPE "nodeMcu"
-#define DEVICE_ID "Assignment4"
+#define ORG "s8ov1q"
+#define DEVICE_TYPE "gayathri"
+#define DEVICE_ID "gayathri123"
 #define TOKEN "123456789"
 #define speed 0.034 
 #define led 14
 char server[] = ORG ".messaging.internetofthings.ibmcloud.com";
-char publishTopic[] = "iot-2/evt/GogulKrish/fmt/json";
+char publishTopic[] = "iot-2/evt/Gayathri/fmt/json";
 char topic[] = "iot-2/cmd/home/fmt/String";  
 char authMethod[] = "use-token-auth";
 char token[] = TOKEN;
@@ -89,6 +89,20 @@ void publishData()
   duration=pulseIn(echopin,HIGH);
   dist=duration*speed/2;
   if(dist<100){
+    String payload = "{\"Alert Distance\":";
+    payload += dist;
+    payload += "}";
+
+    Serial.print("\n");
+    Serial.print("Sending payload: ");
+    Serial.println(payload);
+      if(client.publish(publishTopic, (char*) payload.c_str())) {
+      Serial.println("Warning crosses 110cm -- it automaticaly of the loop");
+      digitalWrite(led,HIGH);
+    }
+     
+  }
+    if(dist>101 && dist<111){
     String payload = "{\"Normal Distance\":";
     payload += dist;
     payload += "}";
@@ -96,30 +110,13 @@ void publishData()
     Serial.print("\n");
     Serial.print("Sending payload: ");
     Serial.println(payload);
-    if (client.publish(publishTopic, (char*) payload.c_str())) {
-      Serial.println("Publish OK");
-    }
-     
-  }
-    if(dist>101 && dist<111){
-    String payload = "{\"Alert distance\":";
-    payload += dist;
-    payload += "}";
-
-    Serial.print("\n");
-    Serial.print("Sending payload: ");
-    Serial.println(payload);
-     if(client.publish(publishTopic, (char*) payload.c_str())) {
-      Serial.println("Warning crosses 110cm -- it automaticaly of the loop");
-      digitalWrite(led,HIGH);
-    }else {
-      Serial.println("Publish FAILED");
+   
     }
      
   }  
   
 
-  }
+  
   void callback(char* subscribeTopic, byte* payload, unsigned int payloadLength){
   Serial.print("callback invoked for topic:");
   Serial.println(subscribeTopic);
