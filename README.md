@@ -19,7 +19,7 @@
 TECHNOLOGY : IOT        
 TEAM ID : PNT2022TMID05128     
 
-https://user-images.githubusercontent.com/77039988/193444961-828072b4-6f8b-417a-9a76-8bc23fe0a6bb.mp4                 
+               
 
 # **👩‍👦TEAM MEMBERS**    
 ```html                      
