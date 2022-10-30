@@ -46,17 +46,16 @@ TEAM ID : PNT2022TMID05128
    
    <div align="center">  
 | ASSIGNMENTS 1 | VIDEO LINK    |
-| ------------- | ------------- |
-|DEMONSTRATION       | <button> <a href="https://screenrec.com/share/mts31hHi4S ">CLICK HERE!  </a></button>                                       |
+| DEMONSTRATION | <button> <a href="https://screenrec.com/share/mts31hHi4S ">CLICK HERE!  </a></button>                                            |
 | ASSIGNMENTS 2 | VIDEO LINK    |
 | DEMONSTRATION | <button> <a href="https://screenrec.com/share/eGjWXHAFON">CLICK HERE!  </a></button>                                             |
 | ASSIGNMENTS 3 | VIDEO LINK    |
 | DEMONSTRATION | <button> <a href="https://screenrec.com/share/Piblrx9gKY">CLICK HERE!  </a></button>                                             |
 | ASSIGNMENTS 4 | VIDEO LINK    |
 | DEMONSTRATION | <button> <a href="https://screenrec.com/share/K9TtHflJW1">CLICK HERE!  </a></button>                                             |      
-  <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
    </div>
+   
 [contributors-shield]: https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-8193-1658911037.svg?style=for-the-badge
 [contributors-url]:https://github.com/IBM-EPBL/IBM-Project-8193-1658911037/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/IBM-EPBL/IBM-Project-8193-1658911037.svg?style=for-the-badge
