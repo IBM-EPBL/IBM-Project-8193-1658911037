@@ -1,5 +1,9 @@
 <div align="center">
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+  
 <!-- PROJECT LOGO -->
 
 <br />
@@ -40,9 +44,6 @@ We can view the location of every bin in the web application by sending GPS loca
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
 
    
-**Project working video link**          
-  
-  
   
 | ASSIGNMENTS 1 | VIDEO LINK    |
 | ------------- | ------------- |
@@ -53,3 +54,10 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 | DEMONSTRATION | <button> <a href="https://screenrec.com/share/Piblrx9gKY">CLICK HERE!  </a></button>                                             |
 | ASSIGNMENTS 4 | VIDEO LINK    |
 | DEMONSTRATION | <button> <a href="https://screenrec.com/share/K9TtHflJW1">CLICK HERE!  </a></button>                                             |      
+
+[contributors-shield]: https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-8193-1658911037.svg?style=for-the-badge
+[contributors-url]:https://github.com/IBM-EPBL/IBM-Project-8193-1658911037/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/IBM-EPBL/IBM-Project-8193-1658911037.svg?style=for-the-badge
+[forks-url]:https://github.com/IBM-EPBL/IBM-Project-8193-1658911037/network/members
+[stars-shield]: https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-8193-1658911037.svg?style=for-the-badge
+[stars-url]:https://github.com/IBM-EPBL/IBM-Project-8193-1658911037/stargazers
