@@ -44,7 +44,7 @@ TEAM ID : PNT2022TMID05128
            IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
 
    
-  
+   <div align="center">  
 | ASSIGNMENTS 1 | VIDEO LINK    |
 | ------------- | ------------- |
 |DEMONSTRATION       | <button> <a href="https://screenrec.com/share/mts31hHi4S ">CLICK HERE!  </a></button>                                       |
@@ -61,3 +61,4 @@ TEAM ID : PNT2022TMID05128
 [forks-url]:https://github.com/IBM-EPBL/IBM-Project-8193-1658911037/network/members
 [stars-shield]: https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-8193-1658911037.svg?style=for-the-badge
 [stars-url]:https://github.com/IBM-EPBL/IBM-Project-8193-1658911037/stargazers
+   </div>
