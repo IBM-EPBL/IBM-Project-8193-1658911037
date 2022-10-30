@@ -5,7 +5,7 @@
 <br />
 
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/gogulkrish/readmetemp/blob/master/images/IBM_logo.svg.png" font="Lucida Calligraphy"  alt="Logo" width="320" height="128">
+    <img src="https://github.com/gogulkrish/readmetemp/blob/master/images/IBM_logo.svg.png"  alt="Logo" font="forte" width="320" height="128">
   </a>
                    
 # IBM-Project-8193-1658911037
