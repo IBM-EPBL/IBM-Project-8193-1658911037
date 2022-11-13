@@ -23,7 +23,7 @@
 TECHNOLOGY : IOT        
 TEAM ID : PNT2022TMID05128     
 
-  # **👩‍👦TEAM MEMBERS**    
+  # **🤙TEAM MEMBERS**    
    ```html                      
            ABARNA
            AHRIHARASUDHAN
@@ -31,7 +31,8 @@ TEAM ID : PNT2022TMID05128
            AKSHAYA
    ```          
 
-  # **📜PROJECT DESCRIPTION:**          
+  # **👀PROJECT DESCRIPTION:**  
+   #### Features:
          * Garbage level detection in bins.     
          * Getting the weight of the garbage in the bin.      
          * Alerts the authorized person to empty the bin whenever the bins are full.     
@@ -40,8 +41,7 @@ TEAM ID : PNT2022TMID05128
 
   # **🎯Skills Required:**        
            IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
-
-   
+ 
    <div align="center">  
   | ASSIGNMENTS 1 | VIDEO LINK    |
   | DEMONSTRATION | <button> <a href="https://screenrec.com/share/mts31hHi4S ">CLICK HERE!  </a></button>                |
