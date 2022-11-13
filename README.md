@@ -25,11 +25,20 @@ TEAM ID : PNT2022TMID05128
 
   # **🤙TEAM MEMBERS**    
    ```html                      
-           ABARNA
-           AHRIHARASUDHAN
-           AKASH
-           AKSHAYA
+           ABARNA S - TEAM LEADER
+           AHRIHARASUDHAN M - TEAM MEMBER
+           AKASH K - TEAM MEMBER
+           AKSHAYA J - TEAM MEMBER
    ```          
+
+# **⌛Shedules**
+| Task | Status    |
+| :-------- | :------- |
+| Disscussion | Done |
+| Planning | Done |
+| File Structure | Done |
+| Task Assigning | 100% |
+| Basic Preperations | Done |
 
   # **👀PROJECT DESCRIPTION:**  
    #### Features:
