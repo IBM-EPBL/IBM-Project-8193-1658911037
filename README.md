@@ -31,14 +31,14 @@ TEAM ID : PNT2022TMID05128
            AKSHAYA J - TEAM MEMBER
    ```          
 
-# **⌛Shedules**
-| Task | Status    |
-| :-------- | :------- |
-| Disscussion | Done |
-| Planning | Done |
-| File Structure | Done |
-| Task Assigning | 100% |
-| Basic Preperations | Done |
+  # ⌛Shedules**
+  | Task | Status    |
+  | :-------- | :------- |
+  | Disscussion | Done |
+  | Planning | Done |
+  | File Structure | Done |
+  | Task Assigning | 100% |
+  | Basic Preperations | Done |
 
   # **👀PROJECT DESCRIPTION:**  
    #### Features:
@@ -48,16 +48,17 @@ TEAM ID : PNT2022TMID05128
          * Garbage level of the bins can be monitored through a web App.        
          * We can view the location of every bin in the web application by sending GPS location from the device.    
 
-  # **🎯Skills Required:**        
+   # 🎯Skills Required Layout Model:**        
            IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
   
   
-   #** Layout Model
+   # Layout Model
    
-<p>&nbsp;</p>
-<img width="364" alt="image" src="https://user-images.githubusercontent.com/101011054/200350245-817ac2e1-5a99-403b-a0fa-189e0e78be7e.png">
+   <div align="center">
+   <p>&nbsp;</p>
+   <img width="364" alt="image" src="https://user-images.githubusercontent.com/101011054/200350245-817ac2e1-5a99-403b-a0fa-189e0e78be7e.png">
 
-   #** Demonstration
+   # Demonstration
    
    <div align="center">  
   
