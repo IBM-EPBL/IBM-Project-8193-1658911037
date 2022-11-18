@@ -31,7 +31,7 @@ TEAM ID : PNT2022TMID05128
            AKSHAYA J - TEAM MEMBER
    ```          
 
-  # ⌛Shedules**
+  # ⌛Schedule**
   | Task | Status    |
   | :-------- | :------- |
   | Disscussion | Done |
