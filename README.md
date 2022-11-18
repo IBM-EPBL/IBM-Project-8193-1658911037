@@ -40,7 +40,7 @@ TEAM ID : PNT2022TMID05128
   | Task Assigning | 100% |
   | Basic Preperations | Done |
 
-  # **👀PROJECT DESCRIPTION:**  
+  # **👀PROJECT DESCRIPTION:  
    #### Features:
          * Garbage level detection in bins.     
          * Getting the weight of the garbage in the bin.      
@@ -48,7 +48,7 @@ TEAM ID : PNT2022TMID05128
          * Garbage level of the bins can be monitored through a web App.        
          * We can view the location of every bin in the web application by sending GPS location from the device.    
 
-   # 🎯Skills Required Layout Model:**        
+   # 🎯Skills Required Layout Model:        
            IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
   
   
