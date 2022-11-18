@@ -23,7 +23,7 @@
 TECHNOLOGY : IOT        
 TEAM ID : PNT2022TMID05128     
 
-  # **🤙TEAM MEMBERS**    
+  # 🤙TEAM MEMBERS**    
    ```html                      
            ABARNA S - TEAM LEADER
            AHRIHARASUDHAN M - TEAM MEMBER
@@ -40,7 +40,7 @@ TEAM ID : PNT2022TMID05128
   | Task Assigning | 100% |
   | Basic Preperations | Done |
 
-  # **👀PROJECT DESCRIPTION**  
+  # 👀PROJECT DESCRIPTION**  
    #### Features:
          * Garbage level detection in bins.     
          * Getting the weight of the garbage in the bin.      
