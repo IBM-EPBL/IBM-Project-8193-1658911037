@@ -80,7 +80,7 @@ TEAM ID : PNT2022TMID05128
   
    
   
-                        #*  https://drive.google.com/file/d/1kt83azO0p_YFxHCcsq3D3Juq-GMuXquG/view  *#     
+                        #*  https://drive.google.com/file/d/1kt83azO0p_YFxHCcsq3D3Juq-GMuXquG/view?usp=drivesdk  *#     
    
    
   [contributors-shield]: https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-8193-1658911037.svg?style=for-the-badge
