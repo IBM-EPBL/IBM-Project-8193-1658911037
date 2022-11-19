@@ -75,13 +75,13 @@ TEAM ID : PNT2022TMID05128
   | ASSIGNMENTS 4 | VIDEO LINK    |
   | DEMONSTRATION | <button> <a href="https://screenrec.com/share/K9TtHflJW1">CLICK HERE!  </a></button>                 |      
     
-     </div>
+    </div>
      
-   #  🎬Demo Link
+   # 🎬Demo Link
   
      <div align="center">
      
-               |<button> <a href="https://drive.google.com/file/d/1kt83azO0p_YFxHCcsq3D3Juq-GMuXquG/view">CLICK HERE!  </a></button>|
+      | DEMONSTRATION | <button> <a href="https://drive.google.com/file/d/1kt83azO0p_YFxHCcsq3D3Juq-GMuXquG/view">CLICK HERE!  </a></button>                 |
   
       </div>
    
